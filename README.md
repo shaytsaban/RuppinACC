@@ -29,7 +29,21 @@ This Excel file contains all the course materials, structured into **separate sh
    - Click **"View raw file"** to download directly, or
    - Press the **down arrow** in the top-right corner to save the file to your device.
 
-Make sure to go through each sheet thoroughly and bring any questions to class or office hours.
+---
+
+### [Property Questions for Self Study](./Property%20Questions%20for%20Self%20Study.docx)
+
+This separate file includes:
+- Additional practice questions focused on **Property, Plant, and Equipment** (PPE).
+- Detailed solutions to help you understand the concepts thoroughly.
+
+**Note:** These questions and solutions are not included in the Excel coursebook and are intended as supplementary material for self-study.
+
+**How to download the file:**
+1. Click the link above.
+2. On the file page, either:
+   - Click **"View raw file"** to download directly, or
+   - Press the **down arrow** in the top-right corner to save the file to your device.
 
 ---
 
@@ -44,17 +58,18 @@ Feel free to reach out with any questions, comments, or feedback regarding the c
 
 ## 🔗 Repository Structure
 
-| File Name                                 | Description                                                                     |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| `Coursebook - ACC Ruppin - 2025 A.xlsx`  | Comprehensive coursebook with all lecture materials, exercises, and solutions. |
-| `README.md`                               | This file, providing an overview of the course and repository contents.         |
+| File Name                                    | Description                                                                     |
+|---------------------------------------------|---------------------------------------------------------------------------------|
+| `Coursebook - ACC Ruppin - 2025 A.xlsx`     | Comprehensive coursebook with all lecture materials, exercises, and solutions. |
+| `Property Questions for Self Study.docx`    | Supplementary self-study file for Property, Plant, and Equipment (PPE).        |
+| `README.md`                                  | This file, providing an overview of the course and repository contents.         |
 
 ---
 
 ## 📝 Notes
 
 - Stay updated: Any revisions or updates to the course materials will be uploaded here.
-- Make the most of it: Use the practice problems and case studies to prepare for exams and deepen your understanding.
+- Make the most of it: Use the practice problems and supplementary materials to deepen your understanding and prepare for exams.
 - Feedback is always welcome: Your input helps improve the learning experience for everyone!
 
 ---
